@@ -61,8 +61,8 @@ python btkakademi_web_scraping_alternative.py
 
 | Kurs Adı                | Seviye      | Kullanıcı Sayısı | Bağlantı     |
 | ----------------------- | ----------- | ---------------- | ------------ |
-| Zararlı Yazılım Analizi | Orta Seviye | 263              | https\://... |
-| Siber Güvenlik Giriş    | Başlangıç   | 1.024            | https\://... |
+| Elektronik Haberleşme Hizmeti Yetkilendirmelerine İlişkin Başvuru ve Değerlendirme Süreci | Temel Seviye | 3.8K | https://www.btkakademi.gov.tr/portal/course/elektronik-haberlesme-hizmeti-yetkilendirmelerine-iliskin-basvuru-ve-degerlendirme-sureci-1050 |
+| Elektronik Haberleşme Sektöründe Ar-Ge Çalışmaların Yerli ve Mili Şebeke Kurulmasının Desteklenmesi | Temel Seviye | 3K | https://www.btkakademi.gov.tr/portal/course/elektronik-haberlesme-sektorunde-ar-ge-calismalarin-yerli-ve-mili-sebeke-kurulmasinin-desteklenmesi-1052) |
 
 ---
 
